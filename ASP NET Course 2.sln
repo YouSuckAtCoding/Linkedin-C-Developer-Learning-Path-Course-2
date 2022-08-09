@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASP NET Course 2", "ASP NET Course 2\ASP NET Course 2.csproj", "{0B56BB11-4171-40B9-8A71-D79CA46316AB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{D0DF335B-46F9-43CC-AD91-41AFA489FF26}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModelsLibrary", "ModelsLibrary\ModelsLibrary.csproj", "{A1849EF0-04A9-4AF2-BFFD-62451346FACB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B56BB11-4171-40B9-8A71-D79CA46316AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B56BB11-4171-40B9-8A71-D79CA46316AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B56BB11-4171-40B9-8A71-D79CA46316AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B56BB11-4171-40B9-8A71-D79CA46316AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1849EF0-04A9-4AF2-BFFD-62451346FACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1849EF0-04A9-4AF2-BFFD-62451346FACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1849EF0-04A9-4AF2-BFFD-62451346FACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1849EF0-04A9-4AF2-BFFD-62451346FACB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A1849EF0-04A9-4AF2-BFFD-62451346FACB} = {D0DF335B-46F9-43CC-AD91-41AFA489FF26}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3391B29B-7A2A-4668-AC9F-DD5332C86D0C}
+	EndGlobalSection
+EndGlobal
